@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /Users/ankitraj2/DOOM-1/linuxdoom-1.10/*.c /Users/ankitraj2/DOOM-1/linuxdoom-1.10/*.h)"
+    ]
+  }
+}
